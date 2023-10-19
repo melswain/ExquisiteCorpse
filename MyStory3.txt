@@ -1,0 +1,2 @@
+3 MyStory3.txt
+Dogs are cute.

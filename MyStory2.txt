@@ -1,0 +1,2 @@
+3 MyStory2.txt
+Hello, I like grapes.
